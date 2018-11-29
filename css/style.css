@@ -118,6 +118,49 @@ h2 {
 .features .features-overflow-image {
   position: relative; }
 
+/*секция 8NewInRelease*/
+.NewInRelease h3 {
+  padding: 50px 0;
+  color: #d3d1da;
+  font-family: "Montserrat", sans-serif;
+  font-size: 28px;
+  font-weight: bold; }
+
+.NewInRelease .NewInRelease-element h4 {
+  color: #323232;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: bold; }
+
+.NewInRelease p {
+  padding: 20px 0 15px;
+  color: #848e97;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  line-height: 21px; }
+
+.NewInRelease .links-button {
+  padding: 10px 24px;
+  color: #8d81ac;
+  background-color: #f4f4f4;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: bold; }
+
+.NewInRelease .extensions-element h4 {
+  color: #8d81ac;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 26px; }
+
+.NewInRelease .extensions-element p {
+  padding: 20px 0 15px;
+  color: #848e97;
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  line-height: 21px; }
+
 /*секция Footer*/
 footer .container {
   padding: 40px 25px;
