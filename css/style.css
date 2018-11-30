@@ -175,6 +175,14 @@ h2 {
     font-size: 16px;
     font-weight: bold;
     text-transform: uppercase; }
+  .pricing .pricing-bottom-text {
+    padding: 110px 5% 77px;
+    margin: auto;
+    max-width: 860px;
+    text-align: center;
+    color: rgba(162, 145, 165, 0.8);
+    font-size: 14px;
+    line-height: 21px; }
 
 /*7секция Subscribe*/
 /*@import "Subscribe";*/
@@ -202,6 +210,9 @@ h2 {
     font-family: "Montserrat", sans-serif;
     font-size: 13px;
     font-weight: bold; }
+  .subscribe .btn-primary {
+    padding-left: 20px;
+    padding-richt: 20px; }
 
 /*секция 8NewInRelease*/
 .NewInRelease h3 {
