@@ -1,0 +1,41 @@
+.subscribe {
+  background-color: #d3d1da;
+}
+.subscribe-form-control {
+  border-radius: 25px;
+}
+.newsletter-section {
+  padding: 30px 0;
+  background-color: #f4f4f4;
+  .newsletter-label {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 40px 0;
+    color: #323232;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .newsletter-email {
+    margin: auto;
+    padding: 14px 25px;
+    width: 58%;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+  }
+  .newsletter-button {
+    padding: 14px 25px;
+    width: 38%;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: #8d81ac;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+  }
+}
